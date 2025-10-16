@@ -1,4 +1,31 @@
-# FAANCustomers
-Customer should  visits the FAAN customer page to create a new account or use one time user button. 
-The system validates input (unique email, strong password) and stores the profile with data encryption.
-Upon successful registration, the user can immediately access their portal account on web .
+# FAANAdmin
+Automate the following actions on the FAANAdmin Application using Selenium.
+
+Log in to the Application
+
+Navigate to: FAANAdmin Demo
+
+Enter valid credentials (username & password).
+
+Click the Login button.
+
+Navigate to the Admin Page
+
+From the main Menu, click the Dashboard module.
+
+Execute the following actions for each module:
+
+Users
+Services.
+Customers
+Bills
+Reports
+Audit Trail
+Invoices
+Payment
+Feedback Disputes
+Profile
+
+Click on the Logout button
+
+
